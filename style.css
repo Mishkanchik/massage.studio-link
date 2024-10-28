@@ -4,7 +4,7 @@
 
 
 body {
-    background: linear-gradient(135deg, #FFD1BF, #f8dfd5);
+    background: #9FC7C7;
     min-height: 100vh;
     margin: 0;
     display: flex;
@@ -32,10 +32,12 @@ a:visited {
 li{
     padding: 10px 70px;
     list-style: none;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-top: 20px;
     color:#2C2C2C ;
+
 }
 
 .button-29 {
@@ -97,7 +99,7 @@ li{
 .content{
     box-shadow: rgba(0, 0, 0, 0.66) 0px 22px 70px 4px;
     text-align: center;
-    background: linear-gradient(500deg,#FCF2ED,#545454 );
+    background: #FCF2ED;
     border-radius: 20px;
     max-width: 600px;
     max-height: 600px;
@@ -137,7 +139,7 @@ li{
     max-width: 70px; 
     height: auto; 
     border-radius: 50%;
-    box-shadow: #111111d7 0px 2px 40px 4px;
+    
     display: flex;
     justify-content: center;
     align-items: center;
