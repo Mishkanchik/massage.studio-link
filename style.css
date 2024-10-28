@@ -162,15 +162,17 @@ p{
 
 
   
-
+@media (max-width: 900px) {
+    .hidden{
+        display: block;
+        }
+  }
 
 @media screen and (max-width: 600px) {
   body {
       padding: 10px;
   }
-  .hidden{
-    display: block;
-    }
+ 
 
   .img-container {
       width: 50px;
